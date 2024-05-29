@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630750521691",
+    "project_id": "flower-app-cc183",
+    "storage_bucket": "flower-app-cc183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630750521691:android:873fb43e33a535f3a9127e",
+        "android_client_info": {
+          "package_name": "com.example.flower_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpU_5V_LMOLaYPo-grzeHbDMPEXIBlJhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
